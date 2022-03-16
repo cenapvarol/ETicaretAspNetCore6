@@ -1,6 +1,11 @@
+using ETicaretAPI.Persistence;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+//ServiceRegistiration da oluþturmuþ olduðumuz  "static void AddPersistenceServices" fonksiyonu buraya ekliyoruz 
+builder.Services.AddPersistenceServices();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

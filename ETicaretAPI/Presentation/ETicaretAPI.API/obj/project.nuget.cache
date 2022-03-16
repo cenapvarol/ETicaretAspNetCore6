@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "7/exUkt5XJNqIdca8OOeId0XclfNeypj0pCTTVdObG44bho+ogybd7kULkc9v4PyQidw5y82awMeGmdnSn5LaQ==",
+  "dgSpecHash": "XCLOZcGu+yt4ScfDscCTBxCFywRvYPjBrdGWSCjAxl2XeTxOdwdPHKiD3jDB9kgTbobAmI2pjZ3YcoOxr5NDuA==",
   "success": true,
   "projectFilePath": "D:\\EgitimProjeleri\\ETicaretAspNetCore6\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\ETicaretAPI.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cenap\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Cenap\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Cenap\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Cenap\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\Cenap\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
