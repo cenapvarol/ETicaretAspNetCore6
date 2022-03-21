@@ -15,3 +15,5 @@ D:\EgitimProjeleri\ETicaretAspNetCore6\ETicaretAPI\Infrastructure\ETicaretAPI.Pe
 D:\EgitimProjeleri\ETicaretAspNetCore6\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\refint\ETicaretAPI.Persistence.dll
 D:\EgitimProjeleri\ETicaretAspNetCore6\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.pdb
 D:\EgitimProjeleri\ETicaretAspNetCore6\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ref\ETicaretAPI.Persistence.dll
+D:\EgitimProjeleri\ETicaretAspNetCore6\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\bin\Debug\net6.0\ETicaretAPI.Persistence.runtimeconfig.json
+D:\EgitimProjeleri\ETicaretAspNetCore6\ETicaretAPI\Infrastructure\ETicaretAPI.Persistence\obj\Debug\net6.0\ETicaretAPI.Persistence.genruntimeconfig.cache

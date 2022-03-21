@@ -31,3 +31,12 @@ D:\EgitimProjeleri\ETicaretAspNetCore6\ETicaretAPI\Presentation\ETicaretAPI.API\
 D:\EgitimProjeleri\ETicaretAspNetCore6\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net6.0\ETicaretAPI.API.pdb
 D:\EgitimProjeleri\ETicaretAspNetCore6\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net6.0\ETicaretAPI.API.genruntimeconfig.cache
 D:\EgitimProjeleri\ETicaretAspNetCore6\ETicaretAPI\Presentation\ETicaretAPI.API\obj\Debug\net6.0\ref\ETicaretAPI.API.dll
+D:\EgitimProjeleri\ETicaretAspNetCore6\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\Humanizer.dll
+D:\EgitimProjeleri\ETicaretAspNetCore6\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\EgitimProjeleri\ETicaretAspNetCore6\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EgitimProjeleri\ETicaretAspNetCore6\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\EgitimProjeleri\ETicaretAspNetCore6\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EgitimProjeleri\ETicaretAspNetCore6\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\EgitimProjeleri\ETicaretAspNetCore6\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\Npgsql.dll
+D:\EgitimProjeleri\ETicaretAspNetCore6\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\EgitimProjeleri\ETicaretAspNetCore6\ETicaretAPI\Presentation\ETicaretAPI.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
