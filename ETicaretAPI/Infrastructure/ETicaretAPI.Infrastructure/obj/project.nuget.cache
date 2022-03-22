@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V03TvO7Ven+v1otfKjH/2neAPnTrepyUGSK0rwub+Osj1Fg9rQmC8bmwa/sMZ0C9v64xF2pPqZGKSNFSVM7qLw==",
+  "dgSpecHash": "kyM9u2XBdo+Y/5z3zub9LXZnJcMSCLQ+/fUaLDH4LhD9g11m2hRHr5PrgYJZgH0wBnadWXg6q5oaXoNh13OF+w==",
   "success": true,
-  "projectFilePath": "D:\\EgitimProjeleri\\ETicaretAspNetCore6\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Infrastructure\\ETicaretAPI.Infrastructure.csproj",
+  "projectFilePath": "D:\\EgitimProjeleri\\ETicaretAPI\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Infrastructure\\ETicaretAPI.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

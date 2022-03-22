@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\EgitimProjeleri\\ETicaretAspNetCore6\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj": {}
+    "D:\\EgitimProjeleri\\ETicaretAPI\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj": {}
   },
   "projects": {
-    "D:\\EgitimProjeleri\\ETicaretAspNetCore6\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj": {
+    "D:\\EgitimProjeleri\\ETicaretAPI\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EgitimProjeleri\\ETicaretAspNetCore6\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj",
+        "projectUniqueName": "D:\\EgitimProjeleri\\ETicaretAPI\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj",
         "projectName": "ETicaretAPI.Application",
-        "projectPath": "D:\\EgitimProjeleri\\ETicaretAspNetCore6\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj",
-        "packagesPath": "C:\\Users\\Cenap\\.nuget\\packages\\",
-        "outputPath": "D:\\EgitimProjeleri\\ETicaretAspNetCore6\\ETicaretAPI\\Core\\ETicaretAPI.Application\\obj\\",
+        "projectPath": "D:\\EgitimProjeleri\\ETicaretAPI\\ETicaretAPI\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj",
+        "packagesPath": "C:\\Users\\cenap.varol\\.nuget\\packages\\",
+        "outputPath": "D:\\EgitimProjeleri\\ETicaretAPI\\ETicaretAPI\\Core\\ETicaretAPI.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Cenap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cenap.varol\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\EgitimProjeleri\\ETicaretAspNetCore6\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj": {
-                "projectPath": "D:\\EgitimProjeleri\\ETicaretAspNetCore6\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj"
+              "D:\\EgitimProjeleri\\ETicaretAPI\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj": {
+                "projectPath": "D:\\EgitimProjeleri\\ETicaretAPI\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj"
               }
             }
           }
@@ -43,6 +43,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -62,17 +68,17 @@
         }
       }
     },
-    "D:\\EgitimProjeleri\\ETicaretAspNetCore6\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj": {
+    "D:\\EgitimProjeleri\\ETicaretAPI\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EgitimProjeleri\\ETicaretAspNetCore6\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
+        "projectUniqueName": "D:\\EgitimProjeleri\\ETicaretAPI\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
         "projectName": "ETicaretAPI.Domain",
-        "projectPath": "D:\\EgitimProjeleri\\ETicaretAspNetCore6\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
-        "packagesPath": "C:\\Users\\Cenap\\.nuget\\packages\\",
-        "outputPath": "D:\\EgitimProjeleri\\ETicaretAspNetCore6\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\obj\\",
+        "projectPath": "D:\\EgitimProjeleri\\ETicaretAPI\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\ETicaretAPI.Domain.csproj",
+        "packagesPath": "C:\\Users\\cenap.varol\\.nuget\\packages\\",
+        "outputPath": "D:\\EgitimProjeleri\\ETicaretAPI\\ETicaretAPI\\Core\\ETicaretAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Cenap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cenap.varol\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

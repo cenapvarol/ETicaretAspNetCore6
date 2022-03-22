@@ -10,3 +10,15 @@ D:\EgitimProjeleri\ETicaretAspNetCore6\ETicaretAPI\Core\ETicaretAPI.Domain\obj\D
 D:\EgitimProjeleri\ETicaretAspNetCore6\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net6.0\refint\ETicaretAPI.Domain.dll
 D:\EgitimProjeleri\ETicaretAspNetCore6\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.pdb
 D:\EgitimProjeleri\ETicaretAspNetCore6\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ref\ETicaretAPI.Domain.dll
+D:\EgitimProjeleri\ETicaretAPI\ETicaretAPI\Core\ETicaretAPI.Domain\bin\Debug\net6.0\ETicaretAPI.Domain.deps.json
+D:\EgitimProjeleri\ETicaretAPI\ETicaretAPI\Core\ETicaretAPI.Domain\bin\Debug\net6.0\ETicaretAPI.Domain.dll
+D:\EgitimProjeleri\ETicaretAPI\ETicaretAPI\Core\ETicaretAPI.Domain\bin\Debug\net6.0\ETicaretAPI.Domain.pdb
+D:\EgitimProjeleri\ETicaretAPI\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.csproj.AssemblyReference.cache
+D:\EgitimProjeleri\ETicaretAPI\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\EgitimProjeleri\ETicaretAPI\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.AssemblyInfoInputs.cache
+D:\EgitimProjeleri\ETicaretAPI\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.AssemblyInfo.cs
+D:\EgitimProjeleri\ETicaretAPI\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.csproj.CoreCompileInputs.cache
+D:\EgitimProjeleri\ETicaretAPI\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.dll
+D:\EgitimProjeleri\ETicaretAPI\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net6.0\refint\ETicaretAPI.Domain.dll
+D:\EgitimProjeleri\ETicaretAPI\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ETicaretAPI.Domain.pdb
+D:\EgitimProjeleri\ETicaretAPI\ETicaretAPI\Core\ETicaretAPI.Domain\obj\Debug\net6.0\ref\ETicaretAPI.Domain.dll
