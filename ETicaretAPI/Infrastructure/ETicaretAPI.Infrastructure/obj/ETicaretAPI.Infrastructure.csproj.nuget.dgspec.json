@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\EgitimProjeleri\\ETicaretAPI\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Infrastructure\\ETicaretAPI.Infrastructure.csproj": {}
+    "D:\\EgitimProjeleri\\ETicaretAspNetCore6\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Infrastructure\\ETicaretAPI.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\EgitimProjeleri\\ETicaretAPI\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Infrastructure\\ETicaretAPI.Infrastructure.csproj": {
+    "D:\\EgitimProjeleri\\ETicaretAspNetCore6\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Infrastructure\\ETicaretAPI.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\EgitimProjeleri\\ETicaretAPI\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Infrastructure\\ETicaretAPI.Infrastructure.csproj",
+        "projectUniqueName": "D:\\EgitimProjeleri\\ETicaretAspNetCore6\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Infrastructure\\ETicaretAPI.Infrastructure.csproj",
         "projectName": "ETicaretAPI.Infrastructure",
-        "projectPath": "D:\\EgitimProjeleri\\ETicaretAPI\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Infrastructure\\ETicaretAPI.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\cenap.varol\\.nuget\\packages\\",
-        "outputPath": "D:\\EgitimProjeleri\\ETicaretAPI\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Infrastructure\\obj\\",
+        "projectPath": "D:\\EgitimProjeleri\\ETicaretAspNetCore6\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Infrastructure\\ETicaretAPI.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Cenap\\.nuget\\packages\\",
+        "outputPath": "D:\\EgitimProjeleri\\ETicaretAspNetCore6\\ETicaretAPI\\Infrastructure\\ETicaretAPI.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cenap.varol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Cenap\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
