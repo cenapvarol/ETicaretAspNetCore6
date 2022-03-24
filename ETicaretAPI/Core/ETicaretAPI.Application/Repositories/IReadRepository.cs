@@ -10,9 +10,11 @@ namespace ETicaretAPI.Application.Repositories
 {
     public interface IReadRepository<T>:IRepository<T> where T : BaseEntity
     {
-        IQueryable<T> GetAll();
-        IQueryable<T> GetWhere(Expression<Func<T, bool>> method);
-        Task<T> GetSingleAsync(Expression<Func<T, bool>> method);
-        Task<T> GetByIdAsync(string id);
+        //burada kullanmış olduğumuz  tracking komut şu işleme yarıyor methot üzerinde yapacağın updet delet işlemri için sistem tracking yani izleme yapar  seni update mi yoksa delet mi yaptığını  tracking  bakarak anlar  yani maliyetli olduğundan dolayı selectlerde mümkün olduğunca  tracking kullanmamaya dikkat ederiz.
+
+        IQueryable<T> GetAll(bool tracking = true);
+        IQueryable<T> GetWhere(Expression<Func<T, bool>> method, bool tracking = true);
+        Task<T> GetSingleAsync(Expression<Func<T, bool>> method, bool tracking = true);
+        Task<T> GetByIdAsync(string id, bool tracking = true);
     }
 }
