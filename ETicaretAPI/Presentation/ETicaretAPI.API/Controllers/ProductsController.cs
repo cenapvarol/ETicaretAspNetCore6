@@ -12,11 +12,18 @@ namespace ETicaretAPI.API.Controllers
     {
         private readonly IProductWriteRepository _productWriteRepository;
         private readonly IProductReadRepository _productReadRepository;
+        private readonly IOrderWriteRepository _orderWriteRepository;
+        private readonly ICustomerWriteRepository _customerWriteRepository;
+        private readonly IOrderReadRepository _orderReadRepository;
 
-        public ProductsController(IProductWriteRepository productWriteRepository, IProductReadRepository productReadRepository)
+        public ProductsController(IProductWriteRepository productWriteRepository, IProductReadRepository productReadRepository, IOrderWriteRepository orderWriteRepository, ICustomerWriteRepository customerWriteRepository, IOrderReadRepository orderReadRepository)
         {
             _productWriteRepository = productWriteRepository;
             _productReadRepository = productReadRepository;
+            _orderWriteRepository = orderWriteRepository;
+            _customerWriteRepository = customerWriteRepository;
+            _orderReadRepository = orderReadRepository;
+
         }
         [HttpGet]
         public async Task Get()
@@ -59,7 +66,10 @@ namespace ETicaretAPI.API.Controllers
 
             //**********************************************************************************************************
 
-            
+           Order order = await _orderReadRepository.GetByIdAsync("e5a481fe-c83b-4639-9428-64c93bb3c9af");
+            order.Address = "Test Adresi";
+            order.Description = "Bu olayı kavradın";
+            await _orderWriteRepository.SaveAsync();
 
         }
         [HttpGet("id")]
